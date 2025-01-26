@@ -1,2 +1,4 @@
 # Amazon-clone
-This is my first Git Repository, regarding to amazon-clone using basic Html and Css.
+This is my first Git Repository.
+<br>
+regarding amazon-clone using basic HTML and CSS.
